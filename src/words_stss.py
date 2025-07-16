@@ -1,4 +1,4 @@
-" word stats: count words in a file "
+" word stats: creating a word freq. table "
 import os
 import pandas as pd
 from collections import defaultdict
