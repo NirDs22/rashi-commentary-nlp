@@ -80,8 +80,8 @@ def common_words_stats(file_path):
     return tag_words_dict[tag], tag
 
 if __name__ == '__main__':
-    source_dir = r'/Users/nird/Library/CloudStorage/OneDrive-Personal/Uni/שנה ב/מדעי הרוח הדיגיטליים/rashi/sources'
-    output_file = f'outputs/words_stss_table_{make_timestamp()}.xlsx'
+    source_dir = r'data'
+    output_file = f'results/words_stss_table_{make_timestamp()}.xlsx'
 
     # Iterate over files in source directory
     for root, _, files in os.walk(source_dir):
