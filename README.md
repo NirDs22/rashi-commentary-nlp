@@ -41,6 +41,16 @@ The project aims to identify stylistic patterns, linguistic features, and possib
 
 ---
 
+## Usage
+
+1. Download from www.sefaria.org.il/texts/Talmud commentary as txt file and paste txt file to Excel Workbook (.xlsx) with a unique name,
+   or use samples in the data folder
+3. Run src/project_make_data.py to create statistic table and feature comparison
+4. Run src/words_stss.py to create a words frequency data table
+5. Run notebooks/word_stss_analysis.ipynp to view insights from the words frequency data table
+
+---
+
 ## Results & Insights
 
 - Visualizations of stylistic similarity/distance between tractates
