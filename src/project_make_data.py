@@ -278,8 +278,8 @@ def get_proximity(stt_df):
     return proximity_df, distace_df
 
 if __name__ == '__main__':
-    source_dir = r'/Users/nird/Library/CloudStorage/OneDrive-Personal/Uni/שנה ב/מדעי הרוח הדיגיטליים/rashi/sources'
-    output_file = f'outputs/data_table_{make_timestamp()}.xlsx'
+    source_dir = r'data'
+    output_file = f'results/data_table_{make_timestamp()}.xlsx'
 
     # Iterate over files in source directory
     for root, _, files in os.walk(source_dir):
