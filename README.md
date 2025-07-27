@@ -10,6 +10,12 @@ The project aims to identify stylistic patterns, linguistic features, and possib
 - **Goal:** Use NLP and statistical methods to analyze, profile, and distinguish authentic Rashi commentary from disputed or alternative segments.
 - **Motivation:** Parts of Rashi's commentary are historically debated. Can computational methods help highlight unique stylistic markers?
 
+
+<img width="836" height="418" alt="image" src="https://github.com/user-attachments/assets/d669026e-577b-49a0-a14f-6f9c508cb6d4" />
+
+
+<img width="803" height="301" alt="image" src="https://github.com/user-attachments/assets/afddca91-52ae-42a7-bcd8-9565e50a851a" />
+
 ---
 
 ## Code Structure
